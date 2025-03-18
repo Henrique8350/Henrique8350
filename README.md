@@ -1,16 +1,18 @@
-## Hi there 👋
+Paulo Henrique
 
-<!--
-**Henrique8350/Henrique8350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em desenvolvimento de sistemas 
 
-Here are some ideas to get you started:
+CARREIRA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou aluno do Senac,Fazendo o Curso de ADS,minha experiência com relação as linguagens de programação é bem mediano,tendo certo entendimento somente em áreas como PYTHON,JAVA e um pouco de KOTLIN,já sobre linguagens de estilização, tenho somente conhecimento do básico do CSS por enquanto,porém pretendo aprimorar meus conhecimentos sobre ambas as linguagens e muitas outras mais pra frente,já participei de alguns projetos durante meu tempo de curso,os quais são significativamente relevantes para o meu desenvolvimento profissional e aprimoraram minha compreensão sobre as linguagens citadas acima.
+
+Tecnologias já Vistas
+
+. MySQL
+. Python
+. JavaScript
+. Java
+. PHP
+. HTML
+. CSS
+
